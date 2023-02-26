@@ -183,6 +183,7 @@ p{
 	.iphone{
 		position: static;
 		transform: rotate(0);
+		width:60%;
 	}
 }
 
