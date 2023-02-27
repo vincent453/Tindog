@@ -185,11 +185,6 @@ p{
 		transform: rotate(0);
 		width:60%;
 	}
-	.up{
-margin-left: 20;
-
-}
-	
 }
 
 /* section cta */
@@ -220,6 +215,6 @@ margin-left: 20;
 }
 
 .up{
-margin-left: 70rem;
+margin-left: 50rem;
 
 }
